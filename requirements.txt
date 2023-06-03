@@ -1,0 +1,4 @@
+web3==5.30.0
+termcolor==2.2.0
+eth-account==0.5.9
+mnemonic==0.20
